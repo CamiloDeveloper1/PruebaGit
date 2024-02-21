@@ -1,0 +1,29 @@
+#formularioCliente {
+    background-color: #e9e5e5; /* Cambia esto al color que prefieras */
+    width: 40%; /* Ajusta esto al ancho que prefieras */
+    padding: 20px; /* Ajusta esto al espacio que prefieras */
+    
+}
+dt::before {
+    content: "• ";
+  }
+
+  #Logo {
+    width: 100xp;
+    height: 100px;
+  }
+  #encabezado {
+    display: flex;
+    align-items: center; /* Centra los elementos verticalmente */
+  }
+  
+  #Logo {
+    width: 100px;
+    height: 100px;
+    margin-right: 20px; /* Añade un espacio a la derecha de la imagen */
+  }
+  
+  h1 {
+    font-family: Arial, sans-serif; /* Cambia la fuente del texto */
+  }
+  
